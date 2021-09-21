@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Description
-In this drag drop feature we can move multiple elements at a time using angular drag drop and cdk.
+In this drag drop feature we can move multiple elements at a time using angular drag drop and cdk. You can checkout on development branch.
