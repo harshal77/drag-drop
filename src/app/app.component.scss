@@ -1,0 +1,62 @@
+.card {
+  border: solid 1px #ccc;
+  height: 85vh;
+  border-radius: 4px;
+}
+
+.cdk-drag-preview {
+  border-radius: 4px;
+  box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
+    0 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0 3px 14px 2px rgba(0, 0, 0, 0.12);
+  z-index: 999;
+  background-color: white;
+}
+
+.border-blue {
+  border: 1px dashed #1B2DE1;
+}
+
+.email {
+  font-size: 15px;
+  color: #85898d;
+}
+
+.abvr {
+  width: 40px;
+  height: 40px;
+  background: #eff5ef;
+  border-radius: 200px;
+  color: #6c6f6c;
+}
+
+.overflow {
+  overflow-y: auto;
+}
+
+.cursor-move {
+  cursor: move;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.padding10 {
+  padding: 10px;
+}
+
+.padding20 {
+  padding: 20px;
+}
+
+.font-15 {
+  font-size: 15px;
+}
+
+.cross-icon {
+  background: url("../assets/cross.svg    ") no-repeat center;
+  background-size: contain;
+  height: 12px;
+  width: 12px;
+}
